@@ -1,0 +1,29 @@
+body {
+  padding-left: 30px;
+  background-color: black;
+}
+
+header {
+  width: 100%;
+  height: 150px;
+  background-color: black;
+}
+
+header img {
+  height: 100%;
+  align-items: center;
+}
+
+main {
+  background-color: black;
+}
+
+h2 {
+  font-size: 30px;
+  color: white;
+}
+
+.bloc-img {
+  color: aqua;
+  width: 100%;
+}
